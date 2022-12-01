@@ -1,0 +1,3 @@
+[submodule "day_01"]
+	path = day_01
+	url = git@github.com:Ling-Lang/day_01.git
